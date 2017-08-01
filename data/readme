@@ -1,0 +1,11 @@
+https://ec.europa.eu/growth/smes/cluster/observatory/cluster-mapping-services/mapping-tool_en#description_data_availability
+
+Data availability
+
+Overall, the present dataset covers 307 NUTS 2 regions in CIP-EIP participating countries. In several cases data was only available on the level of a country, thus some countries only consisting of a few NUTS 2 regions were treated as a single unit (Croatia, Ireland, Israel, Slovenia). In the vast majority of the countries the best data available is on 4-digit NACE precision level and is based on Structural Business Statistics. The exceptions to this rule are Czech Republic, Greece and Netherlands (where we use 3-digit data based on Labour Force Survey), as well as Albania and Liechtenstein (2-digit data only).
+
+The temporal coverage of the data varies substantially. Most EU countries in Western Europe supply time series going back at least to 2000 (with notable exceptions of Italy, where the earliest available year is 2004, and Spain, where the long time series are only available for manufacturing). Among the member states that joined since 2005 only Latvia, Lithuania and Slovenia provide similar coverage, with most other countries only providing data from 2005. 
+
+In terms of timelines, it has to be noted that in most countries the lag in publication of the numbers is close to 18 months, thus the most recent figures in most countries refer to 2012 or 2013. The only countries where the data we use is substantially older are Iceland (2004), Israel (2009), Serbia (2009), and Romania (2010).
+
+Coverage for indicators other than employment is very similar, however there is no detailed wage data in some of the large countries (e.g. Germany and Italy). Therefore, the wage numbers for these countries were estimated using the 2-digit regional figures in combination with 4-digit national ones.
